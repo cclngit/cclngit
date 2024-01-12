@@ -1626,7 +1626,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jiangcuo/Proxmox-Port</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxmox VE   arm64 riscv64 loongarch64</div>
@@ -2609,7 +2609,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.85m out of 62.5m repositories</span>
+                                    <span class="gh">ranked 5.12m out of 62.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2679,7 +2679,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2024, 04:02:54 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Jan 2024, 05:02:46 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
