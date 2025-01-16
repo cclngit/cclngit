@@ -1562,7 +1562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>music-assistant/support</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players.</div>
@@ -2416,7 +2416,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.52m out of 235m repositories</span>
+                                    <span class="gh">ranked 5.52m out of 229m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2492,7 +2492,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2025, 23:02:44 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Jan 2025, 00:02:49 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
