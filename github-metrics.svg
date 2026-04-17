@@ -1655,7 +1655,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oaslananka/kicad-studio</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The complete KiCad development environment for VS Code: open schematics and PCBs, run DRC/ERC, export production files, inspect BOMs, search components, compare design revisions, and optionally get AI-powered design guidance.</div>
@@ -2021,7 +2021,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Apr 2026, 11:30:19 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Apr 2026, 12:24:49 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
