@@ -1742,7 +1742,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dgatf/I2C-slave-multi-address-RP2040</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Mar 24 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">I2C slave protocol to answer to multiple addresses for the RP2040</div>
@@ -2062,7 +2062,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2026, 16:43:02 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Apr 2026, 17:32:56 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
