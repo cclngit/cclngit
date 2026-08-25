@@ -1839,7 +1839,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>willsanderson/Hemma</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏠 A modern, minimal dashboard for Home Assistant. Hemma includes a mobile-friendly layout, button card entities, badge cards, light and dark mode, navigation controls, and more.</div>
@@ -2215,7 +2215,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Aug 2026, 19:23:26 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Aug 2026, 20:25:56 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
