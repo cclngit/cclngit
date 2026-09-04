@@ -1835,7 +1835,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mailcow/mailcow-dockerized</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mailcow: dockerized - 🐮 + 🐋 = 💕</div>
@@ -1888,7 +1888,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strapi/strapi</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.</div>
@@ -1941,7 +1941,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>willsanderson/Hemma</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏠 A modern, minimal dashboard for Home Assistant. Hemma includes a mobile-friendly layout, button card entities, badge cards, light and dark mode, navigation controls, and more.</div>
@@ -2223,7 +2223,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Sept 2026, 16:38:55 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Sept 2026, 19:55:55 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
