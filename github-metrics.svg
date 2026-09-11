@@ -1838,7 +1838,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mailcow/mailcow-dockerized</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mailcow: dockerized - 🐮 + 🐋 = 💕</div>
@@ -1891,7 +1891,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strapi/strapi</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.</div>
@@ -1944,7 +1944,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>willsanderson/Hemma</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏠 A modern, minimal dashboard for Home Assistant. Hemma includes a mobile-friendly layout, button card entities, badge cards, light and dark mode, navigation controls, and more.</div>
@@ -2054,6 +2054,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFBP/EACsQAAEDAgUDBAEFAAAAAAAAAAECAwQFEQASITFRBiJBExQjcTIHJFKBof/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAIBEAAQQCAgMBAAAAAAAAAAAAAgABAwQREiFBIjGB0f/aAAwDAQACEQMRAD8AwJzVQM9aqUSgsp1/gbjY304xSK6mixaM2xKebcmhIMpsKJQDra4SDfn+8dbNErUhtanoHpxWwVqll5tDIG5NyeN/IxN0duDELkZt5p50ArcdbBWHuVoPkHxjGEhxjh+02vWA3Z+2WNVHqd1LGlxkSYTchfex3LuFjUAhQvbnfnFB0xBZRRmGa0Y6pLPxpKCtYyD8dbYx67Cj1qnyfaQXESWk52nVNhBJHH3juoBZTTUIqE5HuWyUK0PjTBhaKLkf1FYqRk/ln4kAGoxejIVNqTKG5DkH09U2W0ly1xbwvJv94iWRDi5IcJw/t2rFsarA2FxxhI/UpxRqQ1t8Y2+sDPWqU0WsmVT0ht5LSrqPdn7z+V99hizHbhSCTR8qilvKbo0sKOR8tHKdje2+B+NU5SUKHoe4VmVmdW6QVm+pwlSn1PUuStYTmspFwPF8HcBCEtKQUIWEEWKhc6pSo/6TgIfbplotsL//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgcDBQj/xAAtEAABAgUDAQYHAQAAAAAAAAABAgMABAUGERIhIjETFDJBUXEHFWFygYKhsv/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRIRMx/9oADAMBAAIRAxEAPwDnRlsug6CIq1u2XSm6fLO1EuOTLqdeCcY1I6bZBxuQYmHBtvgndG2fWLJZk1SKvRWlTUxidZYAeT2ugt+QX77QN0Hix4RW9YCvGnMUmpoYkdpZbYWlzOf7Aicdc7wrUkZ9sQsvaoMTlf1SPOSDSGmMdMCNWzJlxJMwjmDjpjaHq3zWgvIzZlQx2s200z43VAD8kiHVx2wmmLllUeZelW3Wg25hR5kE7n68oH27yuSkg9O8N/7inXU6pwSwOMJWsDH6RmJQuNh67rak6TLSXy5JRrHd1ZOfLx++0AVMzacAqHT1is/EZRVR2vLTMADH2LiXElxKCrc6RFx+AXckf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAABnUlEQVR4nO3STatBQRgH8BFCFhRfQiwlRVLyloWXDaXsWMjG28JWWci7xSnZHh+BhbJhbWEpvoCkTlGW/9t51m63q2m63XsX/+bMeab5nTPzMMYYBIf9g/jbR5rL5eD1esWBx+MR7XZbHHi5XDAej8WB9/sdkiSJA5/PJ3+wUqlgNBqh1+vR5vP5HLPZDMPhkMB+v88XXK/XOJ1OmEwm2O12OBwO2O/32Gw2dIfT6ZQvuFqtIMvyy9p2u0W32+ULLpdLLBaLl7V8Pg+/388XlCTp0z98I+zLRZ1Oh5pGGCjLMm63G67XKx6PBxRFwfl8pqZRm0ntXq5gKpVCtVpFo9FAs9mkqPNisYharYZQKMQXZHzD/iio1+thMBhgtVphsVho1Ol0MBqNNNpsNphMJmg0GtjtdlqjRqvVvgd6PB5EIhFEo1Ekk0n4fD643W4MBgOa1+t1BAIB+pByuYxEIoFWq4VCoQCz2fx90OVyIRgMIh6PIxaLwel0IpPJIJvNIp1OE6q+dzgcCIfDVCuVSvSsnsLPv0P2m0BFZD4A7wuVibYcVsEAAAAASUVORK5CYII=" width="28" height="28" alt="" />
@@ -2242,7 +2243,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Sept 2026, 16:43:56 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Sept 2026, 20:02:16 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
