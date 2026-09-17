@@ -1878,7 +1878,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GuiHash/ha-intratone</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home Assistant integration for Intratone intercoms &amp; doorbells (doorbell events, lock control, camera, Firebase cloud push)</div>
@@ -1984,7 +1984,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mailcow/mailcow-dockerized</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mailcow: dockerized - 🐮 + 🐋 = 💕</div>
@@ -2037,7 +2037,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strapi/strapi</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.</div>
@@ -2282,7 +2282,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Sept 2026, 15:59:17 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Sept 2026, 19:57:20 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
