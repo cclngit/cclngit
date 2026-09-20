@@ -1859,7 +1859,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GuiHash/ha-intratone</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home Assistant integration for Intratone intercoms &amp; doorbells (doorbell events, lock control, camera, Firebase cloud push)</div>
@@ -2246,7 +2246,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Sept 2026, 22:02:29 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Sept 2026, 00:48:59 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
