@@ -1990,7 +1990,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mailcow/mailcow-dockerized</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 30 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">mailcow: dockerized - 🐮 + 🐋 = 💕</div>
@@ -2043,7 +2043,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strapi/strapi</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 30 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.</div>
@@ -2274,7 +2274,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Sept 2026, 15:35:18 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Sept 2026, 21:00:42 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
