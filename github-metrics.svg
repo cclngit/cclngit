@@ -1930,7 +1930,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dani-garcia/vaultwarden</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</div>
@@ -2254,7 +2254,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Oct 2026, 08:32:51 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Oct 2026, 14:58:36 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
