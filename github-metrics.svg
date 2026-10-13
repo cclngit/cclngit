@@ -1902,7 +1902,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GuiHash/ha-intratone</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Home Assistant integration for Intratone intercoms (not affiliated with Cogelec)</div>
@@ -2270,7 +2270,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Oct 2026, 18:36:40 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Oct 2026, 23:39:34 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
